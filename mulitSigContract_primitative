@@ -1,5 +1,5 @@
 pragma solidity ^0.8.3;
-//jbp-Bournvita "Licensed"
+//jakepatel "Licensed"
 
 contract multiSigTester{
     //A class to test multi-signature wallets.
